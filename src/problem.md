@@ -6,3 +6,6 @@
 
 ### \#3
 <img src="https://latex.codecogs.com/gif.latex?\int_0^1\sqrt{\frac{1-x}{1+x}}dx" />
+
+### \#4
+<img src="https://latex.codecogs.com/gif.latex?\int_1^2\frac{1}{2^x}dx" />
