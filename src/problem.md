@@ -9,3 +9,6 @@
 
 ### \#4
 <img src="https://latex.codecogs.com/gif.latex?\int_1^2\frac{1}{2^x}dx" />
+
+### \#5
+<img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{\sin x}dx" />
