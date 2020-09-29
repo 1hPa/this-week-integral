@@ -17,4 +17,4 @@
 <img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{\sqrt{1+x^2}}dx" />
 
 ### \#7
-<img src="https://latex.codecogs.com/gif.latex?\int x\squrt{x-3}dx" />
+<img src="https://latex.codecogs.com/gif.latex?\int x\sqrt{x-3}dx" />
