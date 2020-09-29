@@ -27,3 +27,6 @@
 
 ### \#10
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{2}\frac{3x^3+12x+1}{x^2+4} dx"/>
+
+### \#11
+<img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{x\left ( 1+logx \right )} dx"/>
