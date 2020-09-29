@@ -18,3 +18,6 @@
 
 ### \#7
 <img src="https://latex.codecogs.com/gif.latex?\int x\sqrt{x-3}dx" />
+
+### \#8
+<img src="https://latex.codecogs.com/gif.latex?\int_{1}^{e} \sqrt{x}logx dx" />
