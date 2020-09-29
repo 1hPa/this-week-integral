@@ -21,3 +21,6 @@
 
 ### \#8
 <img src="https://latex.codecogs.com/gif.latex?\int_{1}^{e} \sqrt{x}logx dx" />
+
+### \#9
+<img src="https://latex.codecogs.com/gif.latex?\int\left ( logx \right )^2 dx" />
