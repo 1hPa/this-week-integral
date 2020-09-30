@@ -30,3 +30,6 @@
 
 ### \#11
 <img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{x\left ( 1+logx \right )} dx"/>
+
+### \#12
+<img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{x-\sqrt{x}} dx"/>
