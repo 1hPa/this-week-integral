@@ -36,3 +36,6 @@
 
 ### \#13
 <img src="https://latex.codecogs.com/gif.latex?\int_{\frac{3}{4}}^{2} \frac{1}{x^2\sqrt{x-1}} dx"/>
+
+### \#14
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{\sqrt{x^2+6x+13}} dx"/>
