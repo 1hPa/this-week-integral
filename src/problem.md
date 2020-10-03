@@ -39,3 +39,6 @@
 
 ### \#14
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{\sqrt{x^2+6x+13}} dx"/>
+
+### \#15
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{x}{cos^2x} dx"/>
