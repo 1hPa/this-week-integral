@@ -42,3 +42,6 @@
 
 ### \#15
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{x}{cos^2x} dx"/>
+
+### \#16
+<img src="https://latex.codecogs.com/gif.latex?\int log_2x dx"/>
