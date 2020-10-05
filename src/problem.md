@@ -45,3 +45,6 @@
 
 ### \#16
 <img src="https://latex.codecogs.com/gif.latex?\int log_2x dx"/>
+
+### \#17
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{x-1}{(x+1)(x^2+1)} dx"/>
