@@ -48,3 +48,6 @@
 
 ### \#17
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{x-1}{(x+1)(x^2+1)} dx"/>
+
+### \#18
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{x+2}{x\left ( x+1 \right )} dx"/>
