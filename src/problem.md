@@ -51,3 +51,6 @@
 
 ### \#18
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{x+2}{x\left ( x+1 \right )} dx"/>
+
+### \#19
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{sin^2x} dx"/>
