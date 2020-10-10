@@ -54,3 +54,6 @@
 
 ### \#19
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{sin^2x} dx"/>
+
+### \#20
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\sqrt{\frac{\pi }{2}}}x^3cos^2x dx"/>
