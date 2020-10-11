@@ -57,3 +57,6 @@
 
 ### \#20
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\sqrt{\frac{\pi }{2}}}x^3cos^2x dx"/>
+
+### \#21
+<img src="https://latex.codecogs.com/gif.latex?\int tanxlog\left ( cos^2x \right ) dx"/>
