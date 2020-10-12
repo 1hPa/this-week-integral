@@ -60,3 +60,6 @@
 
 ### \#21
 <img src="https://latex.codecogs.com/gif.latex?\int tanxlog\left ( cos^2x \right ) dx"/>
+
+### \#22
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{cos^3\theta } d\theta "/>
