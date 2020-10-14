@@ -63,3 +63,6 @@
 
 ### \#22
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{cos^3\theta } d\theta "/>
+
+### \#23
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{1+sinx} dx"/>
