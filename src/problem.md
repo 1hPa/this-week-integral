@@ -66,3 +66,6 @@
 
 ### \#23
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{1+sinx} dx"/>
+
+### \#24
+<img src="https://latex.codecogs.com/gif.latex?\int x2^x"/>
