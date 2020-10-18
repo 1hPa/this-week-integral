@@ -69,3 +69,6 @@
 
 ### \#24
 <img src="https://latex.codecogs.com/gif.latex?\int x2^x"/>
+
+### \#25
+<img src="https://latex.codecogs.com/gif.latex?\int_{2}^{3}\frac{x-1}{x^2}e^x dx"/>
