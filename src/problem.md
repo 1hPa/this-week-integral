@@ -72,3 +72,6 @@
 
 ### \#25
 <img src="https://latex.codecogs.com/gif.latex?\int_{2}^{3}\frac{x-1}{x^2}e^x dx"/>
+
+### \#26
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{sinxcosx} dx"/>
