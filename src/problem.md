@@ -75,3 +75,6 @@
 
 ### \#26
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{sinxcosx} dx"/>
+
+### \#27
+<img src="https://latex.codecogs.com/gif.latex?\int 2^{logx}"/>
