@@ -78,3 +78,6 @@
 
 ### \#27
 <img src="https://latex.codecogs.com/gif.latex?\int 2^{logx}"/>
+
+### \#28
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1}\frac{1}{x^3+1} dx"/>
