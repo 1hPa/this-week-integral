@@ -81,3 +81,9 @@
 
 ### \#28
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1}\frac{1}{x^3+1} dx"/>
+
+### \#29
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{2}\sqrt{x^2-2x+1}dx"/>
+
+### \#30
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{cos^4x}dx"/>
