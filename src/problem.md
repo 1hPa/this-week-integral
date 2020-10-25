@@ -87,3 +87,6 @@
 
 ### \#30
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{cos^4x}dx"/>
+
+### \#31
+<img src="https://latex.codecogs.com/gif.latex?\int_{-1}^{1}\frac{x^2}{1+e^x}dx"/>
