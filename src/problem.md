@@ -90,3 +90,6 @@
 
 ### \#31
 <img src="https://latex.codecogs.com/gif.latex?\int_{-1}^{1}\frac{x^2}{1+e^x}dx"/>
+
+### \#32
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{sin\frac{1}{x}}{x^3} dx"/>
