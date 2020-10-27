@@ -93,3 +93,6 @@
 
 ### \#32
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{sin\frac{1}{x}}{x^3} dx"/>
+
+### \#33
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{\sqrt{tanx}}{sin2x} dx"/>
