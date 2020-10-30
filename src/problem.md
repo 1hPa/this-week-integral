@@ -99,3 +99,6 @@
 
 ### \#34
 <img src="https://latex.codecogs.com/gif.latex?\int xe^xsinx dx"/>
+
+### \#35
+<img src="https://latex.codecogs.com/gif.latex?\int sinx(logx) dx"/>
