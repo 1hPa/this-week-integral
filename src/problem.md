@@ -102,3 +102,6 @@
 
 ### \#35
 <img src="https://latex.codecogs.com/gif.latex?\int sinx(logx) dx"/>
+
+### \#36
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1}(x+2x^3)\sqrt{1+2x^2} dx"/>
