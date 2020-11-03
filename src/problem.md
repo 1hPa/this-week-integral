@@ -108,3 +108,6 @@
 
 ### \#37
 <img src="https://latex.codecogs.com/gif.latex?\int\frac{log(logx)}{xlogx} dx"/>
+
+### \#38
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\frac{\pi}{2}} \frac{cosx}{sinx+cosx} dx"/>
