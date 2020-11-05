@@ -111,3 +111,6 @@
 
 ### \#38
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\frac{\pi}{2}} \frac{cosx}{sinx+cosx} dx"/>
+
+### \#39
+<img src="https://latex.codecogs.com/gif.latex?\int\sqrt{e^x} dx"/>
