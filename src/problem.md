@@ -114,3 +114,6 @@
 
 ### \#39
 <img src="https://latex.codecogs.com/gif.latex?\int\sqrt{e^x} dx"/>
+
+### \#40
+<img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{x(logx)^2} dx"/>
