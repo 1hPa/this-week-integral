@@ -117,3 +117,6 @@
 
 ### \#40
 <img src="https://latex.codecogs.com/gif.latex?\int\frac{1}{x(logx)^2} dx"/>
+
+### \#41
+<img src="https://latex.codecogs.com/gif.latex?\int xsinx cosx dx" />
