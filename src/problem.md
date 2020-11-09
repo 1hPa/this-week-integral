@@ -120,3 +120,6 @@
 
 ### \#41
 <img src="https://latex.codecogs.com/gif.latex?\int xsinx cosx dx" />
+
+### \#42
+<img src="https://latex.codecogs.com/gif.latex?\int xe^xsinx cosxdx"/>
