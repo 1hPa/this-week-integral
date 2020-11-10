@@ -123,3 +123,6 @@
 
 ### \#42
 <img src="https://latex.codecogs.com/gif.latex?\int xe^xsinx cosxdx"/>
+
+### \#43
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\pi} \frac{xsin x}{8+sin^2x} dx"/>
