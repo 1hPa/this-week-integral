@@ -126,3 +126,6 @@
 
 ### \#43
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\pi} \frac{xsin x}{8+sin^2x} dx"/>
+
+### \#44
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1} \frac{x^6}{1+x^{14}} dxdx"/>
