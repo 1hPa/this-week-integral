@@ -132,3 +132,6 @@
 
 ### \#45
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{x^4+x} dx"/>
+
+### \#46
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{2020\pi} |sin(2020x)|dx"/>
