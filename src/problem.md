@@ -135,3 +135,6 @@
 
 ### \#46
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{2020\pi} |sin(2020x)|dx"/>
+
+### \#47
+<img src="https://latex.codecogs.com/gif.latex?\int_{e}^{e^2}x^\frac{1}{logx} dx"/>
