@@ -138,3 +138,6 @@
 
 ### \#47
 <img src="https://latex.codecogs.com/gif.latex?\int_{e}^{e^2}x^\frac{1}{logx} dx"/>
+
+### \#48
+<img src="https://latex.codecogs.com/gif.latex?\int x^x(logx+1)dx"/>
