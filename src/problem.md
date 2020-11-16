@@ -141,3 +141,6 @@
 
 ### \#48
 <img src="https://latex.codecogs.com/gif.latex?\int x^x(logx+1)dx"/>
+
+### \#49
+<img src="https://latex.codecogs.com/gif.latex?\int_{1}^{2} x(x-3)^6 dx"/>
