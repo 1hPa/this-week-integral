@@ -144,3 +144,6 @@
 
 ### \#49
 <img src="https://latex.codecogs.com/gif.latex?\int_{1}^{2} x(x-3)^6 dx"/>
+
+### \#50
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{1-e^{-x}} dx"/>
