@@ -147,3 +147,6 @@
 
 ### \#50
 <img src="https://latex.codecogs.com/gif.latex?\int \frac{1}{1-e^{-x}} dx"/>
+
+### \#51
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\frac{1}{2}log3} \frac{e^x}{1+e^{2x}}"/>
