@@ -150,3 +150,6 @@
 
 ### \#51
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\frac{1}{2}log3} \frac{e^x}{1+e^{2x}}"/>
+
+### \#52
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1}log(x^2+1)dx"/>
