@@ -153,3 +153,6 @@
 
 ### \#52
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{1}log(x^2+1)dx"/>
+
+### \#53
+<img src="https://latex.codecogs.com/gif.latex?\int_{1}^{2} (x^3+2x^2+5x) dx"/>
