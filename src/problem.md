@@ -156,3 +156,6 @@
 
 ### \#53
 <img src="https://latex.codecogs.com/gif.latex?\int_{1}^{2} (x^3+2x^2+5x) dx"/>
+
+### \#54
+<img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\pi}\frac{xsinx}{3+cos2x}dx"/>
