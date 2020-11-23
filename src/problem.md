@@ -159,3 +159,6 @@
 
 ### \#54
 <img src="https://latex.codecogs.com/gif.latex?\int_{0}^{\pi}\frac{xsinx}{3+cos2x}dx"/>
+
+### \#55
+<img src="https://latex.codecogs.com/gif.latex?\int \frac{logx}{x^2} dxdx"/>
